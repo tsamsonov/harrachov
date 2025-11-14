@@ -1,0 +1,45 @@
+---
+title: "Program"
+---
+
+### Workshop topics 
+
+Main conference topics are (but not limited to):
+
+-   Relief representation
+
+-   UAV and LiDAR data for terrain mapping
+
+-   Artificial Intelligence in mountain cartography
+
+-   Mapping for outdoor activities in mountains
+
+-   Mapping and GIS of mountainous areas
+
+-   Physical and topographic mapping
+
+-   Mountain and glacier dynamics
+
+-   Interactive atlases and new media applications
+
+-   Other
+
+### Presentation formats
+
+The following presentation formats are welcomed:
+
+- Oral presentation
+- Poster presentation
+- Live demonstration
+- Discussion
+
+### Preliminary schedule
+
+| Day | Date | Events |
+|------------------|------------------|-----------------------------------|
+| 1 | April 22 | Arrival, official start in the evening with a keynote or the appropriate opening |
+| 2-4 | April 23-25 | Depending on the weather, one day outdoors and two days indoors (flexible schedule) |
+| 4 | April 25 | Late afternoon final workshop closing remarks. Traditional local dinner |
+| 5 | April 26 | Departure in the morning |
+
+: Preliminary workshop schedule

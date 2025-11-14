@@ -1,0 +1,56 @@
+---
+title: "XIV Mountain Cartography Workshop"
+subtitle: "Harrachov, Czech Republic, 22-26 April, 2026"
+---
+
+```{=html5}
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/harrachov-winter.png" class="d-block w-100" alt="winter">
+    </div>
+    <div class="carousel-item">
+      <img src="images/harrachov-summer.png" class="d-block w-100" alt="summer">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+<p>
+```
+
+## Welcome
+
+The [ICA](https://icaci.org/) [Commission on Mountain Cartography](https://mountaincartography.icaci.org/) is pleased to announce the **14th Mountain Cartography Workshop**!
+
+The workshop will be held at [Harrachov](https://en.wikipedia.org/wiki/Harrachov), Czech Republic, a wonderful town nestled in the [Krkonoše Mountains](https://en.wikipedia.org/wiki/Giant_Mountains), renowned for its stunning mountain scenery, top-tier ski jumps, centuries-old glass factory, and rich brewing heritage!
+
+The main theme of the workshop is "**New directions of the mountain cartography**". As we live in a intensively evolving world, many new problems as well as technological possibilities arise in cartographic research and practice.
+
+Submitted papers, presentations and panels can deal with any aspects of mountain cartography, or spatial data related to mountain environments. Different presentation types are kindly welcomed, from classic research papers to live software demonstrations and problem discussions.
+
+See you in Harrachov!
+
+::::: {layout-ncol="2"}
+::: left
+*Patrick Kennelly*, Chair
+
+*Timofey Samsonov*, Vice-Chair
+
+**ICA Mountain Cartography Commission**
+:::
+
+::: right
+*Ondrej Prochazka*, local organizer
+
+*Iva Prochazkova*, local organizer
+
+**Montevallo Consulting**
+:::
+:::::

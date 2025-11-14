@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "XIV Mountain Cartography Workshop"
+  page-footer: 
+    center: "Copyright 2025, International Cartographic Association" 
+  navbar:
+    left:
+      - href: venue.qmd
+        text: Venue
+      - href: travel.qmd
+        text: Travel
+      - href: program.qmd
+        text: Program
+      - href: activities.qmd
+        text: Activities
+      - href: contacts.qmd
+        text: Contacts
+
+format:
+  html:
+    theme:
+      - minty
+      - brand
+    css: styles.css
+    toc: true
+    # fontsize: 1.2em
+
