@@ -36,9 +36,9 @@ Approximate travel duration to Harrachov by car:
 - from Dresden \~3 hours 
 - from Wrocław \~2 hours
 
-### Taxi in Harrachov (+420)
+### Taxi in Harrachov
 
-- ARNES TAXI 776 722 131 
-- TAXI TONDR 602 353 578
-- TAXI KONVALINKA 777 288 470
-- CENTRAL TAXI 608 400 699
+- ARNES TAXI +420 776 722 131 
+- TAXI TONDR +420 602 353 578
+- TAXI KONVALINKA +420 777 288 470
+- CENTRAL TAXI +420 608 400 699

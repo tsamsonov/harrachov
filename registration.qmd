@@ -66,9 +66,7 @@ You can reserve a room during registration.
 
 ### Payment
 
-The workshop registration fee is __€50__ per participant, which is in addition to Svornost Hotel room.
+The workshop registration fee is __€50__ per participant, which is in addition to Svornost Hotel room reservation price.
 
-Pay online here or with cash at the workshop. ATMs are available at Svornost Hotel. If you opt for cash, we will provide you with a receipt at the workshop.
-
-[Buy](){.btn .btn-lg .btn-warning role="button"}
+You will receive the payment link (including conference fee and hotel room reservation) on the e-mail address that you used in the registration form.
 
