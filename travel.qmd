@@ -10,7 +10,7 @@ If you are going from the airport, a the most convenient way is by bus.
 
 ### By bus
 
-You can use [IDOS](https://idos.cz) bus operator. _We recommend buying tickets in advance_
+You can use [IDOS](https://idos.cz) bus operator. *We recommend buying tickets in advance*
 
 Way from the airport:
 
@@ -32,13 +32,15 @@ Way from the airport:
 
 Approximate travel duration to Harrachov by car:
 
-- from Prague airport \~2.5 hours (depending on rush hour, you take the D10) 
-- from Dresden \~3 hours 
-- from Wrocław \~2 hours
+-   from Prague airport \~2.5 hours (depending on rush hour, you take the D10)
+-   from Dresden \~3 hours
+-   from Wrocław \~2 hours
 
 ### Taxi in Harrachov
 
-- ARNES TAXI +420 776 722 131 
-- TAXI TONDR +420 602 353 578
-- TAXI KONVALINKA +420 777 288 470
-- CENTRAL TAXI +420 608 400 699
+| | Name | Phone number |
+|----|-----------|---------------------------------------------------------|
+| 1 | ARNES TAXI | <a href="tel:+420776722131">+420 776 722 131</a> |
+| 2 | TAXI TONDR | <a href="tel:+420602353578">+420 602 353 578</a> |
+| 3 | TAXI KONVALINKA | <a href="tel:+420777288470">+420 777 288 470</a> |
+| 4 | CENTRAL TAXI | <a href="tel:+420608400699">+420 608 400 699</a> |
