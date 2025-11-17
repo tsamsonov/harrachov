@@ -1,5 +1,5 @@
 ---
-title: "Venue"
+title: "Registration"
 ---
 
 ```{=html5}
@@ -54,16 +54,21 @@ Workshop will be hosted by [Svornost Hotel](https://www.hotelsvornost.cz/en/)
 
 Address: Harrachov 496, 512 46 HARRACHOV, Česká Republika
 
-```{=html}
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d322570.75559295056!2d15.207671686165451!3d50.83025909383657!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470ecf7dae8b1143%3A0x13361d4e355a1b79!2sWellness%20Hotel%20Svornost%20-%20Pool%20accees%20in%20the%20accomodation%20price!5e0!3m2!1sru!2sus!4v1763393009272!5m2!1sru!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-```
-
-### Reservation possibilities
+#### Room options
 
 - 1 participant in a single room
 - 1 participant in a double room
 - 1 participant in a double room with spouse/partner
 
-To reserve a room, write an e-mail to [Iva Prochazkova](mailto:iva.prochazkova@montevallo.cz)
+You can reserve a room during registration.
 
+[Register](https://forms.gle/242BacUA1v9Jf38h6){.btn .btn-lg .btn-danger role="button"}
+
+### Payment
+
+The workshop registration fee is __€50__ per participant, which is in addition to Svornost Hotel room.
+
+Pay online here or with cash at the workshop. ATMs are available at Svornost Hotel. If you opt for cash, we will provide you with a receipt at the workshop.
+
+[Buy](){.btn .btn-lg .btn-warning role="button"}
 

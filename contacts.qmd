@@ -15,9 +15,6 @@ title: "Contacts"
 
 [__Montevallo Consulting__](https://en.firmy.cz/company/13270722-montevallo-consulting-s-r-o-praha-vrsovice.html), s.r.o.
 
-- registered seat: Ukrajinská 900/11, 101 00 Praha 10, 
-- registration No: CZ24247383
-
 ##### Contacts
 
 - [Ondrej Prochazka](mailto:ondrej.prochazka@montevallo.cz)

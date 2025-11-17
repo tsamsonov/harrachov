@@ -8,8 +8,8 @@ website:
     center: "Copyright 2025, International Cartographic Association" 
   navbar:
     left:
-      - href: venue.qmd
-        text: Venue
+      - href: registration.qmd
+        text: Registration
       - href: travel.qmd
         text: Travel
       - href: program.qmd
