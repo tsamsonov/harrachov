@@ -14,7 +14,7 @@ Please use this [abstract template](files/cmc-abstracts_word_template.docx).
 
 - Submissions will be reviewed by the Program Committee and applicants will be notified of acceptance to the workshop by __February 15, 2026__ using the e-mail address provided in the submission form.
 
-If a submitted paper, extended abstract or poster abstract is accepted, one of the following will apply, depending on the results of the review:
+If a submitted abstract is accepted, one of the following will apply, depending on the results of the review:
 
 - Accepted for _oral presentation_ at the workshop within a 20 minute time slot with extra 10 min for discussion.
 
