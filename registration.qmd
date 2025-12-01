@@ -62,15 +62,15 @@ Address: Harrachov 496, 512 46 HARRACHOV, Česká Republika
 
 You can reserve a room during registration.
 
-::: {.callout-note}
-Please note that all applicants must submit an abstract during registration. See the submission guidelines on the [__Program__](program.qmd) page.
-:::
-
-[Register](https://docs.google.com/forms/d/e/1FAIpQLSePVEOv-yAea85tZoad6R_ZIyz6kNtlMH6BTEAhUVycr0nzZg/viewform?usp=pp_url&entry.1039419063=2026-04-22&entry.1717464771=2026-04-26){.btn .btn-lg .btn-danger role="button"}
-
 ### Payment
 
 The workshop registration fee is __€50__ per participant, which is in addition to Svornost Hotel room reservation price.
 
 You will receive the payment link (including conference fee and hotel room reservation) on the e-mail address that you used in the registration form.
+
+::: {.callout-note}
+Please note that all applicants must submit an abstract during registration. See the submission guidelines on the [__Program__](program.qmd) page.
+:::
+
+[Register](https://docs.google.com/forms/d/e/1FAIpQLSePVEOv-yAea85tZoad6R_ZIyz6kNtlMH6BTEAhUVycr0nzZg/viewform?usp=pp_url&entry.1039419063=2026-04-22&entry.1717464771=2026-04-26){.btn .btn-lg .btn-danger role="button"}
 
