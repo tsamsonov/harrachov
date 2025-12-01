@@ -2,6 +2,27 @@
 title: "Program"
 ---
 
+### Call for papers
+
+All applicants must submit an abstract to be considered for attendance at the workshop. 
+
+Please use this [abstract template](files/cmc-abstracts_word_template.docx).
+
+- Abstracts are submitted during [registration](registration.qmd).
+
+- Abstracts have a 500-word limit and should be submitted as a Word or PDF attachment during registration by __February 1, 2026__. 
+
+- Submissions will be reviewed by the Program Committee and applicants will be notified of acceptance to the workshop by __February 15, 2026__ using the e-mail address provided in the submission form.
+
+If a submitted paper, extended abstract or poster abstract is accepted, one of the following will apply, depending on the results of the review:
+
+- Accepted for _oral presentation_ at the workshop within a 20 minute time slot with extra 10 min for discussion.
+
+- Accepted for _live demonstration_ at the workshop within a 15 minute time slot with extra 5 min for discussion.
+
+- Accepted for _poster presentation_ (authors will present and discuss topics in one special poster session)
+
+
 ### Workshop topics 
 
 Main conference topics are (but not limited to):
@@ -29,9 +50,8 @@ Main conference topics are (but not limited to):
 The following presentation formats are welcomed:
 
 - Oral presentation
-- Poster presentation
 - Live demonstration
-- Discussion
+- Poster presentation
 
 ### Preliminary schedule
 

@@ -62,6 +62,10 @@ Address: Harrachov 496, 512 46 HARRACHOV, Česká Republika
 
 You can reserve a room during registration.
 
+::: {.callout-note}
+Please note that all applicants must submit an abstract during registration. See the submission guidelines on the [__Program__](program.qmd) page.
+:::
+
 [Register](https://forms.gle/242BacUA1v9Jf38h6){.btn .btn-lg .btn-danger role="button"}
 
 ### Payment
