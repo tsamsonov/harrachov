@@ -64,9 +64,7 @@ A room is reserved during registration (see below). There are three room options
 
 - __A double room__, for a participant accompanied by spouse / partner, with full board for both: __16194 CZK__
 
-The full board includes 4x buffeе breakfast, 3x buffet lunch and 3x buffer dinner. For the outdoor / field exploration day, the guest may opt to replace the buffet lunch with a sandwich package. The full board does not include dinner on day 4, when participants will be eating out. 
-
-Each of the options include access to the hotel pool between 7 a.m. and 9 p.m.
+The full board includes 4x buffeе breakfast, 3x buffet lunch and 3x buffer dinner. For the outdoor / field exploration day, the guest may opt to replace the buffet lunch with a sandwich package. The full board does not include dinner on day 4, when participants will be eating out. Each of the options include access to the hotel pool between 7 a.m. and 9 p.m.
 
 _Expenses not covered by the price:_ transportation, outdoor activities, traditional local dinner on day 4, optional outdoor parking (120 CZK / night), optional additional food and beverages not covered by the full board or requested during coffee breaks.
 
@@ -76,7 +74,9 @@ The prices are final, including 12% VAT on housing and 21% VAT on the registrati
 
 The workshop registration fee is __1700 CZK__ per participant, which is in addition to Svornost Hotel room reservation price.
 
-Upon filling in the registration form, you will receive a personalized e-mail with a payment link (for both the hotel and the fee) which will allow you to pay via Wise or card. Payment in cash on site is also possible.
+- Upon completing the registration form, you will receive a personalized e-mail with a payment link covering both the hotel and the conference fee. You can pay by card, Apple Pay, or Wise; cash payment on site is also possible.
+
+- Online payments can be made in CZK, or—if you indicate this in the registration form—in EUR or USD. EUR and USD payments are converted to CZK at a favorable market rate. Only CZK cash payments are accepted if you choose to pay on site.
 
 ::: {.callout-note}
 All applicants must submit an abstract during registration. See the submission guidelines on the [__Program__](program.qmd) page.

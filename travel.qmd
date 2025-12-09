@@ -10,11 +10,11 @@ If you are going from the airport, a the most convenient way is by bus.
 
 ### By bus
 
-You can use [IDOS](https://idos.cz) bus operator. *We recommend buying tickets in advance*
+You can use [IDOS](https://idos.cz/vlakyautobusymhdvse/spojeni/vysledky/?f=Letiště%20Praha&fc=200003&t=Harrachov;%20Jablonec%20nad%20Nisou&tc=1) bus operator. *We recommend buying tickets in advance*
 
 Way from the airport:
 
-1.  Take the bus from the airport AE 1042 to Prague main station
+1.  Praha Airport - bus line 100 to metro station Zličín
 2.  Use metro B, Zličín to the final stop Černý most. You need to buy a 90-minute metro ticket (the journey takes 40 minutes without transfers)
 3.  There is a bus station, here you can take the long-distance bus line 700 or 900
 
@@ -24,9 +24,20 @@ You can use [České dráhy](https://www.cd.cz/en/default.htm) railway operator.
 
 Way from the airport:
 
-1.  Praha Airport - bus line 100 to metro station Zličín
+1.  Take the bus from the airport AE 1042 to Prague main station
 2.  Take the train to Harrachov.
 3.  You must change trains at least once, in Tanvald. The actual number of transfers varies depending on the individual times
+
+::: {.callout-note}
+Train service to Harrachov is infrequent and generally slow, often requiring multiple transfers, so taking a bus is the recommended option.
+:::
+
+### By Bolt taxi
+
+For an extremely convenient—but costly—option, you can take a Bolt directly from Prague Airport to Hotel Svornost. 
+
+- Prices start at around __3,500 CZK__ per group of up to four travelers. 
+- Request the ride through the Bolt app and always check that the car has enough space for your party, including luggage.
 
 ### By car
 
