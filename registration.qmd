@@ -82,5 +82,5 @@ The workshop registration fee is __1700 CZK__ per participant, which is in addit
 All applicants must submit an abstract during registration. See the submission guidelines on the [__Program__](program.qmd) page.
 :::
 
-[Register](https://docs.google.com/forms/d/e/1FAIpQLSePVEOv-yAea85tZoad6R_ZIyz6kNtlMH6BTEAhUVycr0nzZg/viewform?usp=pp_url&entry.1039419063=2026-04-22&entry.1717464771=2026-04-26){.btn .btn-lg .btn-danger role="button"}
+[Register](https://docs.google.com/forms/d/e/1FAIpQLSePVEOv-yAea85tZoad6R_ZIyz6kNtlMH6BTEAhUVycr0nzZg/viewform?usp=pp_url&entry.1039419063=2026-04-22&entry.1717464771=2026-04-26){.btn .btn-lg .btn-danger role="button" target="_blank"}
 
